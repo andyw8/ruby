@@ -1,6 +1,6 @@
 id = "ruby"
 name = "Ruby"
-description = "Ruby support."
+description = "Ruby support. ANDY'S STANDARD BRANCH"
 version = "0.4.6"
 schema_version = 1
 authors = ["Vitaly Slobodin <vitaliy.slobodin@gmail.com>"]
